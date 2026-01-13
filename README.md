@@ -7,7 +7,7 @@
 🎥 [Watch the chatbot in action](YOUR-DEMO-VIDEO-LINK)
 
 ## Overview
-This project demonstrates the design, training, and deployment of a conversational AI chatbot for a Flower Shop using **IBM Watson Assistant**. The chatbot can handle customer inquiries, provide product information, and guide users through ordering workflows, showcasing applied NLP skills and hands-on cloud experience.
+This project demonstrates the design, training, and deployment of a conversational AI chatbot for a Flower Shop using **IBM Watson Assistant**. The chatbot is designed to guide customers through ordering by providing the store phone number and address, answer customer inquiries, and provide product information, showcasing applied NLP skills and hands-on cloud experience.
 
 ## Tools & Technologies
 - IBM Watson Assistant  
@@ -17,10 +17,10 @@ This project demonstrates the design, training, and deployment of a conversation
 - NLP (Natural Language Processing)
 
 ## What I Built
-- Designed the chatbot conversation flows and user interactions  
-- Created and trained intents and entities  
-- Tested the chatbot with sample conversations  
-- Deployed the chatbot on a live webpage  
+- Designed chatbot conversation flows to guide customers to the store phone number and address for ordering  
+- Created and trained intents and entities to handle customer inquiries  
+- Tested the chatbot with sample conversations to ensure accurate guidance  
+- Deployed the chatbot on a live webpage for real-world interaction  
 - Managed IBM Cloud resources and environment setup
 
 ## Screenshots
@@ -35,5 +35,15 @@ Displays the chatbot design interface and conversation flows in Watson Assistant
 
 ### Live Chatbot Webpage
 ![Flower Shop Chatbot Live](screenshots/flower-shop-chatbot-live.png)  
-Demonstrates the deployed chatbot interacting with users
+Demonstrates the deployed chatbot interacting with users on a live webpage, guiding them to the store for ordering.
+
+## Lessons Learned
+- Importance of high-quality training data for NLP accuracy  
+- Iterative testing improves conversation flow and user experience  
+- Deploying AI models requires understanding both cloud infrastructure and application integration
+
+## Future Improvements
+- Expand chatbot capabilities to handle more customer queries  
+- Integrate analytics for monitoring user interactions  
+- Add AI-powered product recommendations
 
