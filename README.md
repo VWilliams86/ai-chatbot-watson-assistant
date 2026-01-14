@@ -4,7 +4,7 @@
 🔗 [Access the live chatbot here](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-5894523e-24cd-42ae-b012-f4934f7ad523%3A%3A05475ee2-28c6-40d6-a9c6-515290302034&integrationID=faa85d61-7523-488e-97fc-540c78dd5385&region=us-south&serviceInstanceID=5894523e-24cd-42ae-b012-f4934f7ad523)
 
 ## Demo Video
-🎥 [Watch the chatbot in action](https://youtu.be/UdZPECYgR9E)
+🎥 [Watch the chatbot in action](https://youtu.be/SmCsTUeiMIM)
 
 ## Overview
 This project demonstrates the design, training, and deployment of a conversational AI chatbot for a Flower Shop using **IBM Watson Assistant**. The chatbot is designed to guide customers through ordering by providing the store phone number and address, answer customer inquiries, and provide product information, showcasing applied NLP skills and hands-on cloud experience.
